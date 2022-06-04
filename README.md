@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+felix;Nice+to+meet+youi!)](https://git.io/typing-svg)
 <!--
 **FelixLiu-dev/FelixLiu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
